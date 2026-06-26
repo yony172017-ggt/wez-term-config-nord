@@ -31,6 +31,7 @@ git clone https://github.com/yony172017-ggt/wez-term-config-nord
 Clone this repository directly into your standard configuration directory:
 ```bash
 git clone https://github.com/yony172017-ggt/wez-term-config-nord ~/.config/wezterm
+### if your not useing windows then remove line 
 ```
 
 ## ⚙️ Configuration Overview
